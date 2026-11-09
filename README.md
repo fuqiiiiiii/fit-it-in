@@ -1,3 +1,5 @@
+**English** · [中文](README.zh.md)
+
 # fit-it-in
 
 **Finds where your work fits in a packed calendar. You pick, it books.**

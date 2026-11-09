@@ -4,7 +4,8 @@
 
 Every morning, Claude reads your calendars (classes, meetings, gym) and draws your day, with the open windows labelled A, B, C. Say *"essay due Friday, ~2h"* and it suggests where it fits. Reply *"B"*. Nothing lands on your calendar until you do.
 
-<!-- demo GIF coming soon: morning chart → "essay due Fri, ~2h" → ★ candidates → reply "A" → block appears in Google Calendar -->
+![fit-it-in demo: the morning chart, a deadline, three suggested windows, reply "A", and the block appears](assets/demo.gif)
+<sub>Illustration with made-up data, drawn in the exact format the rules produce.</sub>
 
 Auto-schedulers decide for you. This one only suggests. It never reshuffles your day on its own, and it never keeps a list of what you didn't do.
 
